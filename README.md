@@ -3,7 +3,7 @@
 > Refreshing and deepening core Java fundamentals on the path to 
 > Spring Boot and enterprise backend development.
 > I've built Java applications throughout my degree (OOP systems, 
-> JDBC, SQLite, JUnit) — this repo documents my deliberate return 
+> JDBC, SQLite, JUnit) this repo documents my deliberate return 
 > to first principles.
 
 ---
