@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 Software Engineering student graduating **May 2026** from Valencia College.
-Engineering Team Lead on **Energy+** — a multi-tenant energy compliance platform.
+Engineering Team Lead on **Energy+** A multi-tenant energy compliance platform.
 AWS Solutions Architect candidate. Targeting backend & cloud roles in NYC and Florida.
 
 ---
@@ -23,7 +23,7 @@ AWS Solutions Architect candidate. Targeting backend & cloud roles in NYC and Fl
 - [x] Math operations & Math library
 - [x] Conditionals & if/else logic
 - [ ] Loops (while, for, do-while)
-- [ ] Switch statements
+- [x] Switch statements
 - [ ] Arrays
 
 ### 🔲 Phase 2 — Object Oriented Programming
