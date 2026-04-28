@@ -22,7 +22,7 @@ AWS Solutions Architect candidate. Targeting backend & cloud roles in NYC and Fl
 - [x] Data Types & printf formatting
 - [x] Math operations & Math library
 - [x] Conditionals & if/else logic
-- [ ] Loops (while, for, do-while)
+- [x] Loops (while, for, do-while)
 - [x] Switch statements
 - [ ] Arrays
 
