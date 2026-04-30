@@ -18,12 +18,14 @@ AWS Solutions Architect candidate. Targeting backend & cloud roles in NYC and Fl
 ## 🗺️ Learning Roadmap
 
 ### ✅ Phase 1 — Core Basics
-- [x] Scanner & User Input
-- [x] Data Types & printf formatting
-- [x] Math operations & Math library
-- [x] Conditionals & if/else logic
-- [x] Loops (while, for, do-while)
-- [x] Switch statements
+
+- [x] Scanner & User Input — `WeightConverter.java`
+- [x] Data Types & printf formatting — `WeightConverter.java`, `CompoundInterest.java`
+- [x] Math operations & Math library — `CompoundInterest.java`
+- [x] Conditionals & if/else logic — `WeightConverter.java`, `NumbersGuessGame.java`
+- [x] Loops (while, for, do-while) — `NumbersGuessGame.java`, `BankingProgram.java`
+- [x] Switch statements — `CalculatorProgram.java`
+- [x] Methods — `BankingProgram.java`
 - [ ] Arrays
 
 ### 🔲 Phase 2 — Object Oriented Programming
